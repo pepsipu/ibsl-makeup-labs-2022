@@ -15,6 +15,7 @@ template IfThenElse() {
     
     // TODO
     // Hint: You will need a helper signal...
+    signal difference_value;
 
     assert(condition == 1 || condition == 0);
 
